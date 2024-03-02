@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "rust_examples",
+    "modules1",
+]
